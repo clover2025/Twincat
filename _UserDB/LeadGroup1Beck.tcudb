@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<TcUserDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2015/02/TcUserDB" FileSignature="79621fba8dccb1c1ad8a840c15ad80141a29e312262a46184e3e42a11d38a1b35513b279ab6edc2c26c356b0fe886b011248f874f43084aa520ab8fb0d13f92e5b24d421f6dd168eedb3b83cd64fb40122f8e4a7c68c64534cf78bbcdf62486c7a2c26dbd95789cdd837d28d3c8a41359f625dfcf7ff4a553404894f62803dd426dd30cb42f496658846f19cf933ea334c8fbb8beb777eabcb8cbe7020c8f54505222b63c19103f8bba2513974892d02c518848258d7d79eaaf9c5957cabed48a5e11b8b40ef5835e7fc845a11bf89084c398ea8e1eeb6a4a1e44e1bc61213ba18e83a516855294bcc06a3316cd2cbf9e62853e18a949e8129391b55eed5e29f" FileIdentifier="134e7ff9ecebe70ee667c52d8fc51af8862e08ec">
+	<OemCertificate NodeSignature="57e81d73d3ba7dcac87dacc127d52f440f78656fc7d0bc7dfacb4ba9f64a01029924b3238f1001e10ec7efa1ff9d795d4ae9df4493305e292921d1c1ee2b866f0410f827085edf5dfc0f1f0192df28530c872211191146b0690582258fdc40342fc7249ee12e300e246b9cf59245f43b07b7485e1e634474b02b44150e9b2fc3e1a45cdb5dfc8ce13f7b715191da0cddbb0a8f24f73f141b190900a750a973f384e0db4525bb91d2b529e47e1a3a23a0a4428a6db5a7a29393b4fc9c670ed3974ea33b716e333063acfd3dd5dae48de4bcb7564ca9870261bfabc0f2c265ba6c5e5f9982baadc9ce45faafbc6385072ac58f24e3f8ecb12b6aaa54184ab05dc2ba165cc9fab7f42df9b22ca021063a8de9dd0d59aedd36a4f9dd54c2a490c2eea60692734b41495d997646c8a182a78abe13bc49128a588c45856c659b2dc5ce18d29c8ff68436c13ce77e8642e08b30298f503292bfba9ef854381c78e1ce1db826d2e4a8a43ee7fc177fa80a4173354cd25393b1523b606e574499f29e49f4a199b74b3eb54dd3346749c395cf675e28a2fbb7a88c2c337168ae7113d4c9f18ecdd5d874642995fc7a8606dcaf323ca2c862a56e9a899048240155a8ae7fa28f327d43aeb8d1e0633ce1efe4fced4c47cad9d757a25e19b4c3ada9813a0d8ff8a3ed1dd6db68b8561d0d5667f090210a0bd9b6716d952b0ba6febd521913cca203dcc349ed0aeadd23ce2ad570ee9af072dad3e75bf8e901f8b7e73e11a75239e42d2fe46e28cabd83fcf30e19e2f4ed0153b8013fef2e73e16a3ddd288695adb290e7716d01423aed06fecffdffde57f2b9cc6807d25a24deb84525e359131de490613a8e49907359196afb3ad0a7544c92aebe38f64b4553e884c2b0ee60e8bb4316e0229de24f0a94f09b98b2edcc0a8d94867426ec3c5a51325115b46a8bcf1806eafdb19184db529cb0cac9723b531c0f014c01067bf27b20e4f6792a811b43253cc27b75c60d92a7e0761217ba8aedcff502378e034b3de806f061bfb564daeaa6e75f016ad8a5ea7eb9cdc5468c685f35031e6985ed6a430c3776342e54b81d610dd781789bd2044c3405c49678c5f19f6d1020456fb3e42580889b4d9e6f0c17a85f8165a4f52b7cee8991b7f6aefa31a0c3d00700f0b472f832492c6a9d9788ddcc14f79acb12831afba2cf9ee609646ae63c47ae0ff6f28f55ba11fe9d6bfdf7d0477fc7c5cdfbc51ddbd7271c99227de98740bf3e8d88a9b5f829fce259117566b173fb39156d502299053967bedbcd9d8e82ca7a564aa1f71958ac82e8e5b2426b230edeb9b47d1f04ba4c5d06014e1878a04224d98240442cf8c4514baff9bc795080deb254564b10e570fa79d962d3a46b4d2fe2c80a16ff8a3d8555eb63ba29565cb1163ebf3f2188802de4283b15c7a12296fa912007f4" OemId="{6C329AD0-6B1C-11CE-4F25-2CED0D65B7F7}" Name="LeadChinaEL" UniqueName="yanru.zhong@leadchina.cn" Issuer="Beckhoff_0215" TcCert_SignDatabaseKey="true" TcCert_SignLicenseReq="true" IssueTime="2021-06-22T05:29:00" ExpireTime="2023-06-23T23:59:59">525341310008000003000000000100000000000000000000010001b43a77a1d686249ff991a1030864d5620aa83ba09da0dae02985ba7705aa7f737b7eb42aaeb8da9f3297da22d370829b5a123b97f93023b37385661726054e555fbcdc3909a88b5681845acdf861dc0751fb9dd2c0aa1cb35e12e4b45708a0e812f6db8c7f073b8c17f330a42d0c9538053b99557210d65394d3689e19a556267dd1349d99aa350fb9762a321b239f8b99fe28a994254ecad679eff857a40d265b8da2bcd9112ec095be81774b482e7b86c9047f7469e7543e958f54af1651272c3a4bd702ad3c8c709ef542fdd37b188c6a41f59e1746e6ac5d23239856af5e01bf10ae5eed67d88a9148b876da7a6f5c50d7cade44d606f2190e771a1c80f9</OemCertificate>
+	<DbPublicKey NodeSignature="572ff0b38f197cbd455208045978a8809fc314c598ce767865ea839f520055a78bf3a2fdbf4e1d9f8c5587064431c815bba2aa53dd6c94e63eaf05b90adf4234b564bc4c021b6827a1abcd5fe34e3634d08e8b5b94c690f8c83e64142c4ea0fc66e2add35a7cef947fe922642118704f52ea078e8366d0a63bb660d881aea1e9b4d30a8f6cb23f86a0cf759a24c3876ce073fcde7fe3b2e0f3df60f9c341622db9fbdfba7f87cd07930865d8d52ac8ddec3396a4a13901884feb306af9124eccc81f1255b3ff605f499aec5e216c908f9690904432852f013d565efed5b91b3dfda5d59188ca82d238436692efb187eef80c55e47b71f50554605ccc48d520c4" Name="LeadGroup1Beck" UniqueName="LeadGroup1Beck" IssueTime="2021-09-08T20:00:00">525341310008000003000000000100000000000000000000010001eb102c35376ad49deb0afac3eaa97104653fb3170db604b8d0bb753267f8f2f5416ab92bc61b30c36480c2136c70cd72ea8e4b9ea6b0b5d9e4c6cdad1f06073646a00689d3e67f0413f07f05e1da58526d76d2c9db666d0253248313dc32939b19983b32ef0c585e45b2dd77c99c73e6b6a2ca6a8bf8448c30e6f856acf82f3377376c5c4939b092543d69cdec63fab4be9f55cf234a559187a675ff4c3b044b6177a9995d1bbe319520c240d1e03377200c56775e661cad5bd26d05cc2a1691e31be8771137b2ee58049ff2779b98f2b5b1f77509d0e2a29a15be5c996d8d73ec5ac89fdd5369fef53e9512e0c381d93809e30982983e335ee6a7dd4f191221</DbPublicKey>
+	<DbAdmin>
+		<Name>LeadGroup1Beck</Name>
+		<US_PwdHash>744f6eabf02a9dbfbc8c9388d92871e531dc7c8cb010c564c01892f8683568b0</US_PwdHash>
+		<DB_PrivateKey>d94036dd2a9b24b05ad8322527053335387964676ca8944bd174960d5ac542f93413dea6c043c23dc42266c779e35479c06cf2e80dee33e062cb7bc93c9a3d137d5e276378c5257176986e5ddb9548985603752fb11c9784acf7f3435cd30f95d6cbaf9242474dc469fc229be8aee51463c89546b15f627c1350352771416b9e5accf3e5d9c2e2c7ed368986bdf7896b518bb3db29c84cb8e1e28eed52ed7148d0b281ccb5fb00eccd243d41da46374f29223c4616b8b518c315a1a4ed87a2b745b4bbf9efc66a16e7d8304bf99517d904003970767dd2e29dbb0d356a3fbb12b33208f5fb6338113ade53b1c27cc508dc9bad83b75039684d0b5e65b24b47ba0fdfef6aa255ae68002257cde37f6128b854cd56010d0d704cef687bf6fa8993321d4269cd2159a9cb5dbab9b09ae4510dc44e016700e04a2a0d784aeb7cd6b52438ba64d5f860310f10e5729692bafdb5cb1b64323b94d545dde7664b8bb6957d59b4257c7d9f29b27a3a0546351aa31bb4d446ea865f84342af0843f643894274937db01f16feacdfcbdd2b7148a09b724fd0a2d3e03607f76c0b27c90d75985e8aab5e7e175232298ab006e75df9876f6f1c994fd30035914b4c844ad8da5ba5bf1ec878843380a7909745ee16446dc97263a7b006dfa17ad6377b3b5fa844d585dae9f2d278e04c14abd75fe47d7b1bfd455fbbfa3fa94a7efede188576b96d3083fc18c6268b73bfd15a52411936760c3f385e3bc29d2cb30718aabb5d9</DB_PrivateKey>
+	</DbAdmin>
+	<OpLevel>
+		<Name>OPL_OEMDev</Name>
+		<GUID>{F18742DB-E293-4FA8-8E35-7DD09C6E17E5}</GUID>
+		<View>GRP_OEMDev</View>
+		<Delete>GRP_OEMDev</Delete>
+		<Modify>GRP_OEMDev</Modify>
+		<AddRemoveChild>GRP_OEMDev</AddRemoveChild>
+	</OpLevel>
+	<OpLevel>
+		<Name>Lv1</Name>
+		<GUID>{52499242-FE5E-47DF-950B-091340B52AAE}</GUID>
+		<View>GRP_LV3</View>
+		<View>GRP_OEMDev</View>
+		<View>GRP_LV2</View>
+		<View>GRP_Administrators</View>
+		<View>GRP_LV1</View>
+		<View>GRP_LV4</View>
+		<Delete>GRP_LV3</Delete>
+		<Delete>GRP_OEMDev</Delete>
+		<Delete>GRP_LV2</Delete>
+		<Delete>GRP_Administrators</Delete>
+		<Delete>GRP_LV1</Delete>
+		<Delete>GRP_LV4</Delete>
+		<Modify>GRP_LV3</Modify>
+		<Modify>GRP_OEMDev</Modify>
+		<Modify>GRP_LV2</Modify>
+		<Modify>GRP_Administrators</Modify>
+		<Modify>GRP_LV1</Modify>
+		<Modify>GRP_LV4</Modify>
+		<AddRemoveChild>GRP_LV3</AddRemoveChild>
+		<AddRemoveChild>GRP_OEMDev</AddRemoveChild>
+		<AddRemoveChild>GRP_LV2</AddRemoveChild>
+		<AddRemoveChild>GRP_Administrators</AddRemoveChild>
+		<AddRemoveChild>GRP_LV1</AddRemoveChild>
+		<AddRemoveChild>GRP_LV4</AddRemoveChild>
+	</OpLevel>
+	<OpLevel>
+		<Name>Lv2</Name>
+		<GUID>{AF48C0C4-8A8F-48B6-8140-5C4ADD363DA4}</GUID>
+		<View>GRP_LV3</View>
+		<View>GRP_OEMDev</View>
+		<View>GRP_LV2</View>
+		<View>GRP_Administrators</View>
+		<View>GRP_LV4</View>
+		<Delete>GRP_LV3</Delete>
+		<Delete>GRP_OEMDev</Delete>
+		<Delete>GRP_LV2</Delete>
+		<Delete>GRP_Administrators</Delete>
+		<Delete>GRP_LV4</Delete>
+		<Modify>GRP_LV3</Modify>
+		<Modify>GRP_OEMDev</Modify>
+		<Modify>GRP_LV2</Modify>
+		<Modify>GRP_Administrators</Modify>
+		<Modify>GRP_LV4</Modify>
+		<AddRemoveChild>GRP_LV3</AddRemoveChild>
+		<AddRemoveChild>GRP_OEMDev</AddRemoveChild>
+		<AddRemoveChild>GRP_LV2</AddRemoveChild>
+		<AddRemoveChild>GRP_Administrators</AddRemoveChild>
+		<AddRemoveChild>GRP_LV4</AddRemoveChild>
+	</OpLevel>
+	<OpLevel>
+		<Name>Lv3</Name>
+		<GUID>{FBBAC22E-6550-4CD3-A751-F19B82AF0A55}</GUID>
+		<View>GRP_LV3</View>
+		<View>GRP_OEMDev</View>
+		<View>GRP_LV2</View>
+		<View>GRP_Administrators</View>
+		<View>GRP_LV4</View>
+		<Delete>GRP_LV3</Delete>
+		<Delete>GRP_OEMDev</Delete>
+		<Delete>GRP_LV2</Delete>
+		<Delete>GRP_Administrators</Delete>
+		<Delete>GRP_LV4</Delete>
+		<Modify>GRP_OEMDev</Modify>
+		<Modify>GRP_Administrators</Modify>
+		<Modify>GRP_LV4</Modify>
+		<AddRemoveChild>GRP_LV3</AddRemoveChild>
+		<AddRemoveChild>GRP_LV4</AddRemoveChild>
+	</OpLevel>
+	<OpLevel>
+		<Name>Lv4</Name>
+		<GUID>{78684F32-CB96-4E21-8857-40254C16F9D2}</GUID>
+		<View>GRP_OEMDev</View>
+		<View>GRP_Administrators</View>
+		<View>GRP_LV4</View>
+		<Delete>GRP_OEMDev</Delete>
+		<Delete>GRP_Administrators</Delete>
+		<Delete>GRP_LV4</Delete>
+		<Modify>GRP_OEMDev</Modify>
+		<Modify>GRP_Administrators</Modify>
+		<Modify>GRP_LV4</Modify>
+		<AddRemoveChild>GRP_OEMDev</AddRemoveChild>
+		<AddRemoveChild>GRP_Administrators</AddRemoveChild>
+		<AddRemoveChild>GRP_LV4</AddRemoveChild>
+	</OpLevel>
+	<Right>
+		<Name>Project Rights</Name>
+		<GUID>{7C3B4EB4-CC82-49ED-AFA4-CC72AE03B274}</GUID>
+		<UserGrp>GRP_OEMDev</UserGrp>
+	</Right>
+	<Right>
+		<Name>I/O Mangement</Name>
+		<GUID>{E7D3031E-EF85-4BC3-8081-C7B8BC62AF9E}</GUID>
+	</Right>
+	<Right>
+		<Name>EtherCAT</Name>
+		<GUID>{0034B3E3-FECF-4151-8A2E-03E673A44092}</GUID>
+		<Folder>I/O Mangement</Folder>
+	</Right>
+	<Right>
+		<Name>Change Security Settings</Name>
+		<GUID>{32C42E96-BB93-4FE4-8F30-6C4F7644A204}</GUID>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>License Management</Name>
+		<GUID>{59F7E9C3-34B9-4360-AE24-57B13C8C9A77}</GUID>
+		<UserGrp>GRP_OEMDev</UserGrp>
+	</Right>
+	<Right>
+		<Name>User DB Management</Name>
+		<GUID>{261CDAD4-567A-4EDA-B6FD-B2CC69574288}</GUID>
+		<UserGrp>GRP_Administrators</UserGrp>
+	</Right>
+	<Right>
+		<Name>Load Unsigned Project Files</Name>
+		<GUID>{8DCD954A-BDED-4F21-A523-F976E0DCE1EF}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>SaveAs Project Files</Name>
+		<GUID>{E4F2487E-1CCB-49A9-886A-6245BEEC7B0A}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Sign Project Files</Name>
+		<GUID>{30E74A79-5DF0-4229-89F6-84BBB5FF635F}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Encrypt Project Files</Name>
+		<GUID>{827A2249-5AAA-4810-9EE0-DECFEA93C3A4}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Decrypt Project Files</Name>
+		<GUID>{BE4121B5-B1F8-42D6-A20F-3967272D3352}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Change Project Files</Name>
+		<GUID>{BB9B22D3-8A34-4911-8877-82F6F328D1A6}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Activate Configuration</Name>
+		<GUID>{67619B56-B00D-42BE-8541-E4ED4E1093DF}</GUID>
+		<Folder>Project Rights</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Advanced Settings</Name>
+		<GUID>{28E1E3EC-03EC-4899-942C-4E2B35C71C5F}</GUID>
+		<Folder>EtherCAT</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Show EtherCAT Adapter</Name>
+		<GUID>{FE747756-12DE-48E6-B13D-738B53A521D5}</GUID>
+		<Folder>EtherCAT</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_Guests</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Manage Licenses</Name>
+		<GUID>{AD1140EC-BFB7-468F-99CB-8F3BFFAFFA22}</GUID>
+		<Folder>License Management</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Activate 7 Day Trial License</Name>
+		<GUID>{79BA3D67-E007-4EFB-80CA-F2E801F06FF5}</GUID>
+		<Folder>License Management</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<Right>
+		<Name>Activate License Response File</Name>
+		<GUID>{BD37CC7E-46A8-40D3-BC28-FD1AD2A9E929}</GUID>
+		<Folder>License Management</Folder>
+		<UserGrp>GRP_LV3</UserGrp>
+		<UserGrp>GRP_OEMDev</UserGrp>
+		<UserGrp>GRP_LV2</UserGrp>
+		<UserGrp>GRP_Administrators</UserGrp>
+		<UserGrp>GRP_LV1</UserGrp>
+		<UserGrp>GRP_LV4</UserGrp>
+	</Right>
+	<UserGrp>
+		<Name>GRP_Guests</Name>
+		<GUID>{B69C9143-A453-448B-9FFC-96271EFAB6D0}</GUID>
+	</UserGrp>
+	<UserGrp>
+		<Name>GRP_OEMDev</Name>
+		<GUID>{2BEF589A-C8C0-478A-B01E-3E598A9C836C}</GUID>
+	</UserGrp>
+	<UserGrp>
+		<Name>GRP_Administrators</Name>
+		<GUID>{8A75BFA5-4CE9-414F-8B2B-80203191CF9A}</GUID>
+		<Parent>GRP_OEMDev</Parent>
+	</UserGrp>
+	<UserGrp>
+		<Name>GRP_LV1</Name>
+		<GUID>{8EE82920-46A1-4BA8-81B5-30B24387A725}</GUID>
+	</UserGrp>
+	<UserGrp>
+		<Name>GRP_LV2</Name>
+		<GUID>{635E538F-9F32-46D9-B81F-17FC310D60AF}</GUID>
+	</UserGrp>
+	<UserGrp>
+		<Name>GRP_LV3</Name>
+		<GUID>{235A7E71-67AD-43F4-96D3-71D7D3114B7D}</GUID>
+	</UserGrp>
+	<UserGrp>
+		<Name>GRP_LV4</Name>
+		<GUID>{EA23DA6B-2CB3-4D5D-A073-CB6E278A76F1}</GUID>
+	</UserGrp>
+	<User>
+		<Name>Guest</Name>
+		<GUID>{00000000-0000-0000-0000-000000000000}</GUID>
+		<Group>GRP_Guests</Group>
+	</User>
+	<User>
+		<Name>LeadGroup1Beck</Name>
+		<GUID>{00000000-0000-0000-0000-000000000000}</GUID>
+		<Hash>73ec5d873d9fa7cb77f1fd741d2327d1da448e79</Hash>
+		<Group>GRP_Administrators</Group>
+	</User>
+	<User>
+		<Name>UserLv4</Name>
+		<GUID>{17FBC434-82DB-4779-AD86-066EBBDB3685}</GUID>
+		<Hash>a49b9424d092df0dc0002f1c9e90926ce6fa4ffa</Hash>
+		<Group>GRP_LV4</Group>
+	</User>
+	<User>
+		<Name>UserLv3</Name>
+		<GUID>{B7FF4A24-458B-4511-80AD-823082F7ACC8}</GUID>
+		<Hash>922a41d82dacbb9acc97b4137bc7bcc31c4f521b</Hash>
+		<Group>GRP_LV3</Group>
+	</User>
+	<User>
+		<Name>UserLv2</Name>
+		<GUID>{E025751B-94EB-47FC-B6E0-8967E4D1E921}</GUID>
+		<Hash>149a071417fbdb9e51d3c5fa2d914ac0e5a9abb3</Hash>
+		<Group>GRP_LV2</Group>
+	</User>
+</TcUserDB>
